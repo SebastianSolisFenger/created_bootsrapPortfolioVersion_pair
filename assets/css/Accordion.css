@@ -1,5 +1,5 @@
 .collapsible-link::before {
-  content: '';
+  content: "";
   width: 14px;
   height: 2px;
   background: #333;
@@ -11,7 +11,7 @@
 }
 
 .collapsible-link::after {
-  content: '';
+  content: "";
   width: 2px;
   height: 14px;
   background: #333;
@@ -21,4 +21,3 @@
   display: block;
   transition: all 0.3s;
 }
-
